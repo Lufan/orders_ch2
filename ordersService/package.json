@@ -1,7 +1,7 @@
 {
   "name": "order-processing",
   "version": "1.0.0",
-  "description": "microservices-security-in-action Chapter 2 sample app (https://github.com/microservices-security-in-action/samples/tree/master/chapter02/sample02)",
+  "description": "microservices-security-in-action Chapter 2 sample app (https://github.com/microservices-security-in-action/samples/tree/master/chapter02/sample01)",
   "license": "MIT",
   "scripts": {
     "build:server": "tsc -p src/server/tsconfig.server.json",

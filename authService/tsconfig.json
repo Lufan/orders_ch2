@@ -1,0 +1,13 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "target": "es2017",
+    "sourceMap": true,
+    "plugins": [
+      {
+        "name": "typescript-lit-html-plugin",
+      }
+    ]
+  }
+}
